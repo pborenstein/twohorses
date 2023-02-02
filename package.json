@@ -1,7 +1,7 @@
 {
-  "name": "minimal",
+  "name": "twohorses",
   "version": "1.0.0",
-  "description": "an eleventy kernel",
+  "description": "the story of two horsesn",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf ./dist",
@@ -10,7 +10,7 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "keywords": [],
-  "repository": "https://github.com/pborenstein/minimal-11ty.git",
+  "repository": "",
   "author": "Philip Borenstein",
   "license": "MIT",
   "devDependencies": {
