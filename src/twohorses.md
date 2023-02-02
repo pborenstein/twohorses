@@ -1,9 +1,9 @@
 ---
-title:  of Two Horses
+title:  The Story of Two Horses
 layout: base.njk
 ---
 
-# The Story of Two Horses
+# {{title}}
 
 Some time ago, out in the country, there lived two
 horses, a white one and a brown one.
