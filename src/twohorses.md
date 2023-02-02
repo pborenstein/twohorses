@@ -1,3 +1,8 @@
+---
+title:  of Two Horses
+layout: base.njk
+---
+
 # The Story of Two Horses
 
 Some time ago, out in the country, there lived two

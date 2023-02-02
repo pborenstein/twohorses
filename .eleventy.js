@@ -1,5 +1,16 @@
 
 module.exports = function (eleventyConfig) {
+
+  const markdownIt              = require('markdown-it')
+
+  const md =  markdownIt({  html: true,
+                            breaks: false,
+                            linkify: true,
+                            typographer: true }).disable('code');
+
+
+  eleventyConfig.setLibrary("md", md)
+
   return {
     dir: {
       output:   "dist",
