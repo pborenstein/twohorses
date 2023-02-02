@@ -6,14 +6,17 @@ layout: base.njk
 # {{title}}
 
 Some time ago, out in the country, there lived two
-horses, a white one and a brown one.
+horses: a white horse, and a brown horse.
 
-The two horses were best friends. They had grown up together, they
-lived in the same barn, had adjoining stalls, and liked each other
+The two horses were best friends.
+They had grown up together,
+they lived in the same barn,
+had adjoining stalls,
+and they liked each other
 very much. They were very happy horses.
 
 Every morning,
-a little while after breakfast,
+at a little past breakfast,
 the two horses would race
 around the track.
 The brown horse and the white horse
@@ -21,10 +24,14 @@ were about the same age
 and the same size.
 Even so, the white horse always won.
 
+## The first night
+
+
 One night the brown horse had a dream that disturbed him very much. He
 dreamed that Equus, the god of horses, appeared to him and said:
 "Brown horse! Brown horse! You will race three more times, and then
 you shall die!"
+
 
 In the morning, the white horse could see that
 his friend the brown horse was very upset.
@@ -79,9 +86,12 @@ your win?"
 "I suppose you're right," the brown horse said.
 He resolved that from then on, he would keep his head in the race.
 
+## The second night
+
 That night the brown horse had another dream in which Equus, the god
 of horses, appeared to him and said to him "Brown horse! Brown horse!
 You will race two more times, and then: You. Shall. Die!"
+
 
 The following morning, the brown horse kept shaking his
 head.
@@ -118,6 +128,8 @@ more race."
 
 The brown horse grumbled, "OK." But he was kind of pissy the rest of the day.
 Stupid metaphor.
+
+## The third night
 
 That night the brown horse had the dream again. Equus, the god of
 horses, appeared to him and said: "Brown horse! Brown horse! You

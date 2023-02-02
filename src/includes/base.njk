@@ -3,33 +3,39 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>The Story of Two Horses</title>
+  <title>{{title}}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
 
 html {
-  font-size: 1rem
+  /* https://css-tricks.com/simplified-fluid-typography/ */
+  font-size: clamp(5px, .7rem + 1vw, 92px);
 }
 
 body {
+  --measure:  min(90%, 48ch);
   background-color: #fffff8;
   color: #111;
   counter-reset: sidenote-counter;
   font-family: Palatino,Georgia,serif;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 500px;
-  font-size: 1.4rem;
+  margin: 0;
+  width: 100vw;
+  box-sizing: content-box;
+  margin-inline: auto;
+  max-inline-size: var(--measure);
 }
 
 p {
   line-height: 2em;
 }
 
-h1 {
+h1,h2 {
   font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 300;
+  font-weight: 600;
+}
+h1 {
   font-size: 3em;
+  padding-top: 1em;
 }
 
   </style>
