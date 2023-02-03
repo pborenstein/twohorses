@@ -131,6 +131,8 @@ more race."
 The brown horse grumbled, "OK." But he was kind of pissy the rest of the day.
 Stupid metaphor.
 
+![](img/pair.png)
+
 ## The third night
 
 That night the brown horse had the dream again. Equus, the god of
