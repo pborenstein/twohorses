@@ -5,7 +5,7 @@ layout: base.njk
 
 # {{title}}
 
-![](img/twoheaded.png)
+![](img/twoheaded.png)s
 
 Some time ago, out in the country, there lived two
 horses: a white horse, and a brown horse.
