@@ -195,3 +195,5 @@ do was to win one lousy race!"
 The white horse looked at the little dog and said:
 
 "Imagine that! A talking dog!"
+
+![](img/dog.png)
