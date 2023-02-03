@@ -1,9 +1,10 @@
 ---
-title:  The Story of Two Horses
+title: Two Horses
 layout: base.njk
 ---
 
 # {{title}}
+
 
 ![](img/twoheaded.png)
 
