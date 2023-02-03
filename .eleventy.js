@@ -3,6 +3,9 @@ module.exports = function (eleventyConfig) {
 
   const markdownIt              = require('markdown-it')
 
+
+  eleventyConfig.addPassthroughCopy("src/img")
+
   const md =  markdownIt({  html: true,
                             breaks: false,
                             linkify: true,
