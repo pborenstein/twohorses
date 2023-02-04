@@ -138,7 +138,7 @@ Stupid metaphor.
 
 <p class="first-line">That night, the brown horse had the dream again. Equus, the god of
 horses, appeared to him and said: "Brown horse! Brown horse! You
-will race _one_ more time, and then: You. Shall. Die!"</p>
+will race <i>one</i> more time, and then: You. Shall. Die!"</p>
 
 Next morning, the white horse didn't have to ask. He knew
 that the brown horse had had the dream again.
