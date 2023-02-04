@@ -198,3 +198,13 @@ The white horse looked at the little dog and said:
 <p class="first-line">"Imagine that! A talking dog!"</p>
 
 ![](img/dog.png)
+
+---
+
+<div style="font-size: 60%" markdown="1">
+
+[Philip Borenstein](/post) 2023
+
+
+</div>
+
