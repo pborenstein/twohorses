@@ -8,8 +8,8 @@ layout: base.njk
 
 ![](img/twoheaded.png)
 
-Some time ago, out in the country, there lived two
-horses: a white horse, and a brown horse.
+<p class="drop">Some time ago, out in the country, there lived two
+horses: a white horse, and a brown horse.</p>
 
 The two horses were best friends.
 They had grown up together,
@@ -30,10 +30,10 @@ Even so, the white horse always won.
 ## The first night
 
 
-One night the brown horse had a dream that disturbed him very much. He
+<p class="first-line">One night, the brown horse had a dream that disturbed him very much. He
 dreamed that Equus, the god of horses, appeared to him and said:
 "Brown horse! Brown horse! You will race three more times, and then
-you shall die!"
+you shall die!"</p>
 
 
 In the morning, the white horse could see that
@@ -91,9 +91,9 @@ He resolved that from then on, he would keep his head in the race.
 
 ## The second night
 
-That night the brown horse had another dream in which Equus, the god
+<p class="first-line">That night, the brown horse had another dream in which Equus, the god
 of horses, appeared to him and said to him "Brown horse! Brown horse!
-You will race two more times, and then: You. Shall. Die!"
+You will race two more times, and then: You. Shall. Die!"</p>
 
 
 The following morning, the brown horse kept shaking his
@@ -136,9 +136,9 @@ Stupid metaphor.
 
 ## The third night
 
-That night the brown horse had the dream again. Equus, the god of
+<p class="first-line">That night, the brown horse had the dream again. Equus, the god of
 horses, appeared to him and said: "Brown horse! Brown horse! You
-will race _one_ more time, and then: You. Shall. Die!"
+will race _one_ more time, and then: You. Shall. Die!"</p>
 
 Next morning, the white horse didn't have to ask. He knew
 that the brown horse had had the dream again.
@@ -195,6 +195,6 @@ do was to win one lousy race!"
 
 The white horse looked at the little dog and said:
 
-"Imagine that! A talking dog!"
+<p class="first-line">"Imagine that! A talking dog!"</p>
 
 ![](img/dog.png)
