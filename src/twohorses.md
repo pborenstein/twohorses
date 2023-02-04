@@ -43,7 +43,7 @@ his friend the brown horse was very upset.
 
 "Oh, man, you won't believe this, but I had a dream last night that
 Equus, the god of horses, came to me.
-And he said 'You will race three more time, and then:
+And he said 'You will race three more times, and then:
 You. Shall. Die!'" the brown horse said.
 
 "Wow," said the white horse, "that's a creepy dream."
