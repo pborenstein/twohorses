@@ -28,10 +28,9 @@ were about the same age
 and the same size.
 Even so, the white horse always won.
 
-## The first night
 
 
-<p class="first-line">One night, the brown horse had a dream that disturbed him very much. He
+<p class="drop">One night, the brown horse had a dream that disturbed him very much. He
 dreamed that Equus, the god of horses, appeared to him and said:
 "Brown horse! Brown horse! You will race three more times, and then
 you shall die!"</p>
@@ -90,9 +89,8 @@ your win?"
 "I suppose you're right," the brown horse said.
 He resolved that from then on, he would keep his head in the race.
 
-## The second night
 
-<p class="first-line">That night, the brown horse had another dream in which Equus, the god
+<p class="drop">That night, the brown horse had another dream in which Equus, the god
 of horses, appeared to him and said to him "Brown horse! Brown horse!
 You will race two more times, and then: You. Shall. Die!"</p>
 
@@ -135,9 +133,8 @@ Stupid metaphor.
 
 ![](img/pair.png)
 
-## The third night
 
-<p class="first-line">That night, the brown horse had the dream again. Equus, the god of
+<p class="drop">That night, the brown horse had the dream again. Equus, the god of
 horses, appeared to him and said: "Brown horse! Brown horse! You
 will race <i>one</i> more time, and then: You. Shall. Die!"</p>
 
