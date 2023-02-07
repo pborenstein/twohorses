@@ -134,7 +134,7 @@ Stupid metaphor.
 ![](img/pair.png)
 
 
-<p class="drop">That night, the brown horse had the dream again. Equus, the god of
+<p class="drop">On the third night, the brown horse had the dream again. Equus, the god of
 horses, appeared to him and said: "Brown horse! Brown horse! You
 will race <i>one</i> more time, and then: You. Shall. Die!"</p>
 
