@@ -10,14 +10,13 @@ excerpt: "Some time ago, out in the country, there lived two horses: a white hor
 ![](img/twoheaded.png)
 
 <p class="drop">Some time ago, out in the country, there lived two
-horses: a white horse, and a brown horse.</p>
-
+horses: a white horse, and a brown horse.
 The two horses were best friends.
 They had grown up together,
 they lived in the same barn,
 had adjoining stalls,
 and they liked each other
-very much. They were very happy horses.
+very much. They were very happy horses.</p>
 
 Every morning,
 at a little past breakfast,
