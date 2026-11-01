@@ -44,7 +44,7 @@ jobs:
           )"
           REPO_NAME="${GITHUB_REPOSITORY#*/}"
           if [[ -n "$CUSTOM_DOMAIN" ]]; then
-            echo "PATHPREFIX=/" >> "$GITHUB_ENV"
+            echo "PATHPREFIX=./$REPO_NAME" >> "$GITHUB_ENV"
           else
             echo "PATHPREFIX=$REPO_NAME" >> "$GITHUB_ENV"
           fi
