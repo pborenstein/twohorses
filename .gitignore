@@ -97,7 +97,6 @@ typings/
 #      V  generated |
 _site/
 dist
-package-lock.json
 
 
 # Local Netlify folder
