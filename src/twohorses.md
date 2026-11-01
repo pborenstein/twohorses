@@ -200,7 +200,7 @@ The white horse looked at the little dog and said:
 
 <div style="font-size: 60%" markdown="1">
 
-[Philip Borenstein](/post) 2023
+[Philip Borenstein](./post) 2023
 
 
 </div>
